@@ -1,0 +1,11 @@
+{
+    "name": "queteproject",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "ejs": "^2.5.5",
+        "ejs-lint": "^0.3.0",
+        "express": "^4.16.3",
+        "jshint": "^2.9.5"
+    }
+}
